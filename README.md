@@ -21,8 +21,13 @@ To clone and use:
 3) cd into cloned repo
 4) install pandas, SQL alchemy, and hvplot dependencies
 5) run in Jupyter notebook
+6) run voila in the conda dev environment to see this notebooks output as a webpage on local host
 
 ---
+
+## Use
+with the voila library you can see this on local host as a web page
+![using voila](using-voila.png "Using Voila")
 
 ## Contributor
 
